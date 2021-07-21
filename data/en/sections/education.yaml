@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: School of Engineering majoring in Data Science
+  icon: fa-microscope
+  timeframe: 2016-2019
+  institution:
+    name: Higher School of Statistics and Data Analysis (ESSAIT)
+    url: "http://www.essai.rnu.tn/"
+  #grade: #(optional)
+   # scale: CGPA
+   # achieved: 3.6
+    #outOf: 4
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+ # - title: Fusce eu augue ut odio porttitor pulvinar.
+   # url: "#"
+ # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+   # url: "#"
+- name: Main focus on Mathematics, Physics, Programming
+  icon: fa-graduation-cap
+  timeframe: 2013-2016
+  institution:
+    name: Preparatory Institute for Engineering Studies of El Manar(IPEIEM)
+    url: "http://www.ipeiem.rnu.tn/"
+

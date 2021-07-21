@@ -1,0 +1,18 @@
+# some information about you
+name: "Amal TLILI"
+nickname: "Amal"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/amal.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "amal.tlili04@gmail.com"
+  phone: "216 28 893 444"
+
+# some summary about what you do
+summary:
+  - I am a Data Science Engineer
+  - I am a a machine learning and computer vision (ML&CV) enthusiast
+  - I enjoy Kaggle competitions
+  - I love exploring data
+  - I love to work with some fun projects

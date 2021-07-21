@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Co-Founder and Co-Organizer at Pyladies Tunis
+  timeline: "March 2021 - "
+  organization:
+    name: Pyladies Tunis
+    url: https://pyladies.com/
+  courseOverview: We are a group of Tunisian women developers who love the Python programming language. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events, and social gatherings.
+  #certificateURL: "https://example.com"
+
+- name: Co-Founder and Co-Organizer at Tunis R User Group
+  timeline: "Jun 2020 - Jan 2021"
+  organization:
+    name: Tunis R User Group
+    url: https://benubah.github.io/r-community-explorer/rugs.html
+  courseOverview: "Tunis R User Group is part of an international mentorship group with a focus on helping more people become active participants and leaders in the R open-source community. Our mission is to promote, educate and advance a diverse R community through outreach, education, conferences, events and social gatherings."
+  #certificateURL: "https://example.com"
+

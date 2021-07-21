@@ -1,0 +1,74 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Science Engineer
+# your company information
+company:
+  name: DNA Global Analytics.
+  url: "https://dna-ga.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV_Amal_Tlili.pdf"
+
+# a summary about you
+summary: 'I’ve always dreamed of being a science guru ever since I was a kid. Following my deep passion for data and information analysis, I opted for the engineering program at Higher School of Statistics and Data Analysis (ESSAIT) Tunis. What I enjoy most is using the data to answer many queries and find answers. Even through it is challenging, I take so much pleasure in seeking the best solution. I enjoy reading and this keeps me updated and keeps my vision sharp. I love communities within them effective knowledge sharing happens. That’s why I decided to combine these two, by co-foundering of two wonderful communities: PyLadies Tunis and Tunis UserR.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "amal.tlili04@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/atlili"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/amal-tlili-a9b473172/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/AmalTlili20"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/amal.tlili.524"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 95
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Public Speaking
+  percentage: 90
+  color: orange
+
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 90
+  color: pink
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

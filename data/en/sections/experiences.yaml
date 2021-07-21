@@ -1,0 +1,117 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: DNA Global Analytics
+    url: "https://dna-ga.com/"
+    location: Tunis Tunisia
+    # company overview
+    #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+  positions:
+  - designation: Data Science Engineer
+    start: June 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Measure the velocity of specific human body parts to analyze movement speed and count repetitions
+    - Evaluate poses and movements and compare them to your individual target execution through pose estimation
+    - Gather important angles of the human body and define good or bad thresholds.
+    - Human Motion Analysis for Fitness
+    - Keywords; Tensorflow, TFLite, Android Studio, Mediapipe, CNN, ML, API, GIT
+
+  #- designation: Junior Software Engineer
+   # start: Nov 2017
+   # end: Oct 2019
+   # responsibilities:
+   # - Implement and test xyz feature for abc tool.
+    #- Support client for abc tool.
+    #- Learn k,d,w technology for xyz.
+
+- company:
+    name: Kam Company GmbH
+    url: "https://kam-company.de/fr/"
+    location: Tunis Tunisia
+    #overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+  positions:
+  - designation: Data Scientist
+    start: Feb 2021
+    end: May 2021
+    responsibilities:
+    - Innovate on state-of-the-art deep learning systems for speech recognition and speaker diarization
+    - Apply deep learning techniques to improve acoustic models and keyword spotting
+    - Perform robust data analysis and communicate results with sophisticated visualization methods
+    - Create and implement statistical & machine learning algorithms, assessing their effectiveness through solid validation workflows
+    - Keywords; Tensorflow, PyTorch, Pandas, Signal Processing, LSTM-based models
+
+- company:
+    name: Capitalya_groupe (Webreflexe)
+    url: "https://webreflexe.com/"
+    location: Tunis Tunisia
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Data Scientist
+    start: March 2020
+    end: Jan 2021
+    responsibilities:
+    - Streamlined the use of machine learning techniques by implementing Clustering, and Classification in Python for data analysis on the agency's databases and optimization of predictive targeting algorithms(Lead scoring, Segmentation ..)
+    - Handling, cleaning, and verification of data
+    - Customer behavior analysis (sentiment analysis using NLP techniques and text representation techniques, statistics and classification algorithms)
+    - Create and present quality dashboards on the performance of marketing campaigns (data analysis and modeling)
+    - Keywords; R, Python (Machine learning frameworks (Keras, PyTorch) and libraries (like scikit-learn)), MySQL, SAS, a platform of emailing routing
+
+- company:
+    name: Arab International Bank of Tunisia(BIAT)
+    url: "https://www.biat.com.tn/"
+    location: Tunis Tunisia
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Trader
+    start: Aug 2019
+    end: Feb 2020
+    responsibilities:
+    - Market Maker on the Tunisian FOREX market
+    - Monitor transaction costs and negotiate with brokers and exchanges to reduce expenses
+    - Provide macroeconomic analysis and technical analysis for customers
+    - Customer segmentation using Data mining
+    - Implementation of hedging strategies to control the exposures to currency risk for clients
+
+- company:
+    name: ERM PARTNERS - Actuarial Risk Consulting and Management firm
+    url: "http://www.erm-partners.com/"
+    location: Tunis Tunisia
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Graduate Engineering Trainee
+    start: Feb 2019
+    end: May 2019
+    responsibilities:
+    - Processing and Analysis of data on non-life insurance portfolio
+    - Statistical modeling (Generalised Linear Models (GLM), Zero Inflation Model, Validation Criteria, Goodness of fit tests)
+    - Comparison of traditional statistical models and machine learning techniques in order to provide the best model for IARD pricing(decision tree, random forest, neural network, etc)
+
+- company:
+    name: Laboratory of BioInformatics bioMathematics & bioStatistics BIMS Institut Pasteur
+    url: "http://www.pasteur.tn/index.php?option=com_content&view=article&id=415&Itemid=158"
+    location: Tunis Tunisia
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Trainee
+    start: June 2018
+    end: Aug 2018
+    responsibilities:
+    - Data processing pipeline
+    - Web Scraping
+    - Comparison of traditional statistical models and machine 
+    - Building a Shiny Web application using RShiny that classifies the resistance of the plants according to different factors
+
+
